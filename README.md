@@ -49,4 +49,4 @@ The model successfully recognizes and classifies hand gestures from unseen image
 Shaik Vaseema
 
 - GitHub: https://github.com/vaseema-shaik
-- LinkedIn: linkedin.com/in/shaik-vaseema-81977a37b
+- LinkedIn: linkedin.com/in/vaseemashaik
